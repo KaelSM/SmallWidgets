@@ -1,5 +1,8 @@
 # SmallWidgets: Enhance Your Web Experience
 
+![smallwid](https://github.com/KaelSM/SmallWidgets/assets/113145289/758032f5-3c0b-49f5-97e0-3cba517222cb)
+
+
 ## Introduction
 
 SmallWidgets is a curated collection of interactive web components designed to elevate the user experience on websites. Each widget is crafted with attention to detail, ensuring both functionality and aesthetics are top-notch. Whether you're a web developer looking to integrate unique features or a designer seeking inspiration, SmallWidgets offers a variety of components to suit your needs.
